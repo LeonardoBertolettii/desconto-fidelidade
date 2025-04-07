@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+.env
+*.log
+
+# SQLite
+*.db
+
+# Editor
+.vscode/
